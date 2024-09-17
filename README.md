@@ -12,6 +12,6 @@ O **ValidaSMAR** é um algoritmo para validação de dados no sistema SMAR do pr
 
 Clone o repositório e instale as dependências:
 ```bash
-git clone https://github.com/usuario/ValidaSMAR.git
+git clone https://github.com/tucaguimaraes/ValidaSMAR.git
 cd ValidaSMAR
 pip install -r requirements.txt
